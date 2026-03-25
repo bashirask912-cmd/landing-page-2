@@ -25,7 +25,7 @@ Font Awesome (icons)
 │── README.md    # Project documentation
 🚀 Getting Started
 1. Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone  https://github.com/bashirask912-cmd/landing-page-2/edit/main/README.md
 2. Open the project
 
 Simply open the index.html file in your browser:
@@ -76,7 +76,7 @@ This project is licensed under the MIT License.
 
 Your Name
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/bashirask912-cmd
 ⭐ Show Your Support
 
 If you like this project, please give it a ⭐ on GitHub!
